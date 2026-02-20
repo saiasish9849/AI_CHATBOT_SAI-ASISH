@@ -12,7 +12,7 @@ requirements:
 setup:
   clone:
     - git clone https://github.com/saiasish9849/AI_CHATBOT_SAI-ASISH.git
-    - cd AI_CHATBOT
+    - cd AI_CHATBOT_SAI-ASISH
 
   backend:
     - cd backend
