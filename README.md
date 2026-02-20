@@ -11,7 +11,7 @@ requirements:
 
 setup:
   clone:
-    - git clone https://github.com/bandarirohanvarma/AI_CHATBOT.git
+    - git clone https://github.com/saiasish9849/AI_CHATBOT_SAI-ASISH.git
     - cd AI_CHATBOT
 
   backend:
